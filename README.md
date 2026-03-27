@@ -197,6 +197,13 @@ soroban contract invoke \
   --bill_id 1 \
   --payer <USER_ADDRESS>
 ```
+### Stellar Contract ID and Link
+
+Contract ID: `6708a98ba59351d440fc7b846697852517687803b05211a3939b6922a37dd006`
+
+Stellar Expert Link: `https://stellar.expert/explorer/testnet/tx/6708a98ba59351d440fc7b846697852517687803b05211a3939b6922a37dd006`
+
+![alt text](image.png)
 
 ### License
 MIT License
